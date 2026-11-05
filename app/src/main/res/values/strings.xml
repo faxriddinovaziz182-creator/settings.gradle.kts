@@ -1,1 +1,5 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ovozli Agent</string>
+    <string name="accessibility_description">Ovozli buyruqlar asosida ilovalarni ochish, bosish, yozish va izlash uchun ekranni o\'qiydi va boshqaradi.</string>
+</resources>
